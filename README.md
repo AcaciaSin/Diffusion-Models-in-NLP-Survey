@@ -8,9 +8,9 @@
 
 ## Chronological Order
 
-#### 2023
+### 2023
 
-#### 2022
+### 2022
 
 **1. Diffusion-LM Improves Controllable Text Generation.** [27 May 2022]
 
@@ -70,7 +70,7 @@
 
 
 
-#### 2021
+### 2021
 
 **1. Structured Denoising Diffusion Models in Discrete State-Spaces.**  [10 Nov 2021]
 *Jacob Austin, Daniel D. Johnson, Jonathan Ho, Daniel Tarlow, Rianne van den Berg*
