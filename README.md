@@ -64,7 +64,7 @@
 
 *Justin Lovelace, Varsha Kishore, Chao Wan, Eliot Shekhtman, Kilian Weinberger*
 
-[[links]([[2212.09462] Latent Diffusion for Language Generation](https://arxiv.org/abs/2212.09462))]
+[[links](https://arxiv.org/abs/2212.09462)]
 
 
 
